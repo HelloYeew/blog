@@ -4,4 +4,4 @@ The blog made using Next.js and TailwindCSS. Currently in heavy development proc
 
 ## Start development
 
-Coming Soon...
+*Coming Soon...*
