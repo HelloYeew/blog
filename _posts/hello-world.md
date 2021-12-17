@@ -1,6 +1,6 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Test this now!'
+title: "Let's test this now!"
+excerpt: 'Hello World!'
 coverImage: '/assets/blog/hello-world/987919.jpg'
 date: '2021-12-13T13:01:07.322Z'
 author:
@@ -14,4 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```python
 print("Hello World!")
+def gummud() {
+  print("gummud")
+|
 ```
