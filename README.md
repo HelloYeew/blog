@@ -1,10 +1,20 @@
 # Blog
 
-The blog made using Next.js and TailwindCSS. Currently in heavy development process but can post now.
+The blog made using Next.js and TailwindCSS. Currently in heavy development process but can post now but some styling are not finish.
 
 ## Start development
 
-*Coming Soon...*
+Install dependencies:
+
+```shell
+npm install
+```
+
+Then run the following command to start the development server:
+
+```shell
+npm run dev
+```
 
 ## Learn More
 
