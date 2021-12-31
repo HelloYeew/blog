@@ -1,13 +1,13 @@
 ---
 title: "2021 Year in Review"
-excerpt: 'Hello World!'
-coverImage: '/assets/blog/hello-world/987919.jpg'
+excerpt: "Let's review 2021!"
+coverImage: '/assets/blog/2021-year-in-review/916735-cropped.jpg'
 date: '2021-12-31T22:00:00.000Z'
 author:
   name: Phawit Pornwattanakul
   picture: '/assets/blog/authors/helloyeew.png'
 ogImage:
-  url: '/assets/blog/hello-world/987919.jpg'
+  url: '/assets/blog/2021-year-in-review/916735-cropped.jpg'
 ---
 
 Every new year I always write a post about the review of the year so let's review 2021!
@@ -32,6 +32,7 @@ Let set the goal for 2022:
 - [ ] Learn more Japanese
 - [ ] Less learning in web development and learning more in other side
 - [ ] Start more side projects
+- [ ] Finish this blog and post it more frequently
 - [ ] The taiko project must have the significant progress
 - [ ] My university score is not decreasing
 - [ ] osu! 5 digits
