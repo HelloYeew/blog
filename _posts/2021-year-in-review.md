@@ -41,4 +41,4 @@ Let set the goal for 2022:
 - [ ] Have the progress on the goal in my GitHub README page : Work in the country that I love
 - [ ] (Optional) Rewrite frontend of Rūrusetto with React or Next.js
 
-
+Have fun in 2022!
