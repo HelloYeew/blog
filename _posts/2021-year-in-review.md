@@ -1,13 +1,13 @@
 ---
 title: "2021 Year in Review"
 excerpt: "Let's review 2021!"
-coverImage: '/assets/blog/2021-year-in-review/916735-cropped.jpg'
+coverImage: '/assets/blog/2021-year-in-review/983936-cropped.jpg'
 date: '2021-12-31T22:00:00.000Z'
 author:
   name: Phawit Pornwattanakul
   picture: '/assets/blog/authors/helloyeew.png'
 ogImage:
-  url: '/assets/blog/2021-year-in-review/916735-cropped.jpg'
+  url: '/assets/blog/2021-year-in-review/983936-cropped.jpg'
 ---
 
 Every new year I always write a post about the review of the year so let's review 2021!
